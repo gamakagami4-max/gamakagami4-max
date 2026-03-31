@@ -12,10 +12,10 @@
 
 ## 👋 About Me
 
-💻 **Backend-focused Full-Stack Engineer** specializing in scalable systems
-🎓 **Computer Science @ BINUS University (GPA: 3.86)**
-🚀 Built **production-grade APIs, real-time systems, and distributed architectures**
-⚡ Strong focus on **system design, performance, and reliability**
+💻 **Backend-focused Full-Stack Engineer** specializing in scalable systems<br>
+🎓 **Computer Science @ BINUS University (GPA: 3.86)**<br>
+🚀 Built **production-grade APIs, real-time systems, and distributed architectures**<br>
+⚡ Strong focus on **system design, performance, and reliability**<br>
 🇦🇺 Targeting **internship / part-time roles in Australia**
 
 ---
