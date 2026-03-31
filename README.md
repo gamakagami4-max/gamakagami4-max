@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Gabriel+Anderson;Full-Stack+Software+Engineer;Backend+%26+Scalable+Systems;Aspiring+Engineer+in+Australia+🇦🇺" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Gabriel+Anderson;Backend-Focused+Full-Stack+Engineer;Scalable+Systems+%26+Distributed+Architecture;Aspiring+Engineer+in+Australia+🇦🇺" />
 </p>
 
 <p align="center">
@@ -12,10 +12,11 @@
 
 ## 👋 About Me
 
-💻 Full-Stack Software Engineer focused on **backend development and scalable systems**
-🎓 Computer Science @ BINUS University (GPA: 3.86)
-🚀 Experienced in building **production-ready APIs, real-time systems, and distributed architectures**
-🌏 Aiming for **internship / part-time opportunities in Australia**
+💻 **Backend-focused Full-Stack Engineer** specializing in scalable systems
+🎓 **Computer Science @ BINUS University (GPA: 3.86)**
+🚀 Built **production-grade APIs, real-time systems, and distributed architectures**
+⚡ Strong focus on **system design, performance, and reliability**
+🇦🇺 Targeting **internship / part-time roles in Australia**
 
 ---
 
@@ -38,8 +39,8 @@
 
 ## 🎯 Current Focus
 
-* 🧠 System design & backend architecture
-* ⚙️ Building scalable, production-level systems
+* 🧠 System design & distributed systems
+* ⚙️ Building scalable, production-level applications
 * 🇦🇺 Preparing for tech opportunities in Australia
 
 ---
